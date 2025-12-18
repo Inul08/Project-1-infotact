@@ -11,4 +11,4 @@ This project focuses on analyzing clinical trial datasets to monitor patient adh
 - Identified patient dropout patterns using visualization techniques.
 - Built KPIs to track site-level performance and medication adherence.
 # 📊 [Click Here to View the Full Project Report (PDF)](Clinical_Trail_Project.pdf)
-
+# 📊 [Click Here to View the Full Project Case Report (PDF)](Case_Report_Clinical_Trial.pdf)
